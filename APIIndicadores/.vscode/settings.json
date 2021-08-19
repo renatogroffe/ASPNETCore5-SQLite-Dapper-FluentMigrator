@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:APIIndicadores}/baseindicadores.db",
+            "group": "Testes",
+            "name": "BaseIndicadores"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
